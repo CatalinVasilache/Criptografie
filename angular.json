@@ -29,7 +29,7 @@
               "src/styles.css"
             ],
             "scripts": [
-              "src/assets/isaacCSPRNG/isaacCSPRNG-1.1.js"
+              "src/assets/isaacCSPRNG-1.1.js"
             ]
           },
           "configurations": {

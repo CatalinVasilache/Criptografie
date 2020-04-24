@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import * as isaacCSPRNG from '../assets/isaacCSPRNG/isaacCSPRNG-1.1.js';
+import * as isaacCSPRNG from '../assets/isaacCSPRNG-1.1.js';
 
 declare const isaacCSPRNG: any;
 
